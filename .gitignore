@@ -1,0 +1,5 @@
+file/*
+log/*
+temp/*
+!temp/sessions/*
+!temp/.htaccess
